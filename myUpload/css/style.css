@@ -1,0 +1,32 @@
+.noPadding {
+  padding: 0;
+}
+
+.siteTitle {
+  color: white;
+  font-weight: bolder;
+  font-size: 2em;
+}
+
+.textRed {
+  color: red;
+}
+
+.upload {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4%;
+}
+
+.uploadBox {
+  /* height: 30vh; */
+  padding: 2%;
+  border: #00000026 1px solid;
+  border-radius: 6px;
+  background-color: #e6eef5;
+  display: flex;
+  justify-content: space-around;
+  align-items: stretch;
+  flex-direction: column;
+}
